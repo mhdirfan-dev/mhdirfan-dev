@@ -46,28 +46,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhdirfan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdirfan-dev&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdirfan-dev&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mhdirfan-dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🚌 **[NCERC Fleet Management](https://github.com/mhdirfan-dev/ncerc-fleet-management)** | Real-time bus detection with YOLOv12 + EasyOCR, tripwire entry/exit logging, live Flask/Socket.IO dashboard, Telegram alerts |
-| 🎬 **[PictoPRO](https://github.com/mhdirfan-dev/picto-pro)** | Photo-to-explainer-video pipeline: OCR → script gen → TTS → rendered MP4, with a custom symbolic math solver |
-| 🧭 **[Kerala Career Compass](https://github.com/mhdirfan-dev/kerala-compass-frontend)** | AI career guidance platform, grounded chatbot over 50+ college dataset, English/Malayalam |
-| 🤖 **LinkedAgent** | 10-step reasoning agent, single-call chain-of-thought with self-recalibrating rulebook *(Agents League Hackathon 2026)* |
 
 ---
 
