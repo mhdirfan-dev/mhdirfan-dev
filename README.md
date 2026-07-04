@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mohammed Irfan</h1>
-<h3 align="center">AI Engineer & Full-Stack Developer building applied AI systems end-to-end</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a40&height=200&section=header&text=Mohammed%20Irfan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" alt="header banner"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mhdirfan-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+applied+AI+systems+end-to-end;LLM+Agents+%7C+Computer+Vision+%7C+Full-Stack;B.Tech+CS+(AI+%26+ML)+%7C+CGPA+8.41%2F10" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mhdirfan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mhdirfan-dev" />
@@ -55,4 +62,6 @@
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's build something!</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a40,100:0e75b6&height=100&section=footer" alt="footer banner"/>
+</p>
