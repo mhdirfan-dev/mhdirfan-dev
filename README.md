@@ -50,15 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdirfan-dev&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhdirfan-dev&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
 
 ---
 
